@@ -13,8 +13,6 @@
 
 Finished the baseline
 
-Follow the tutorail
-https://www.youtube.com/watch?v=5IMXpp3rohQ&t=749s
 
 
 
